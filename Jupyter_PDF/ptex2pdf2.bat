@@ -1,0 +1,1 @@
+ptex2pdf -u -l -ot "-shell-escape" %1
