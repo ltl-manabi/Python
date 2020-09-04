@@ -12,7 +12,7 @@
 %===============================================================================
 
 ((* block docclass *))
-\documentclass[uplatex,dvipdfmx,11pt,a4j]{jsarticle}
+\documentclass[uplatex,dvipdfmx,11pt,a4j,ja=standard]{bxjsarticle}
 \usepackage{graphicx}
 \usepackage{hyperref}
 \usepackage{pxjahyper}
